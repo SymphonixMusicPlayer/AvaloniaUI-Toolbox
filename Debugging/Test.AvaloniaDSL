@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exampleModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="7e2cfa51-8c8f-409e-bd4e-de403eee4374" xmlns="http://schemas.microsoft.com/dsltools/AvaloniaDSL">
+  <elements>
+    <button Id="2e5a2929-01c7-4786-a55d-7351e875148f" name="Button1" />
+  </elements>
+</exampleModel>

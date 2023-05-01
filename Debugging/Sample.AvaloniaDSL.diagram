@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<avaloniaDSLDiagram dslVersion="1.0.0.0" Id="85f8f91e-f62a-42e5-83c6-77ec6abf67da" absoluteBounds="0, 0, 11, 8.5" name="Sample">
+  <exampleModelMoniker Id="521945de-1ab6-410c-b137-27f6db54ba95" />
+  <nestedChildShapes>
+    <exampleShape Id="4b4493c7-852b-48f2-b5b8-2661afd61026" absoluteBounds="0.5, 1.75, 2, 0.75">
+      <exampleElementMoniker name="/521945de-1ab6-410c-b137-27f6db54ba95/ExampleElement1" />
+    </exampleShape>
+    <exampleShape Id="c688ae4c-5959-44ef-b0da-d65aa87574ce" absoluteBounds="3, 0.5, 2, 0.75">
+      <exampleElementMoniker name="/521945de-1ab6-410c-b137-27f6db54ba95/ExampleElement2" />
+    </exampleShape>
+    <exampleConnector Id="c5ef5514-f33e-4f45-8529-d4a1f3a13ddf" edgePoints="[(1.5 : 1.75); (1.5 : 0.875); (3 : 0.875)]" fixedFrom="Algorithm" fixedTo="Algorithm" TargetRelationshipDomainClassId="61e1fa3e-efa6-4672-a03f-fe7ea377cb84">
+      <nodes>
+        <exampleShapeMoniker Id="4b4493c7-852b-48f2-b5b8-2661afd61026" />
+        <exampleShapeMoniker Id="c688ae4c-5959-44ef-b0da-d65aa87574ce" />
+      </nodes>
+    </exampleConnector>
+  </nestedChildShapes>
+</avaloniaDSLDiagram>

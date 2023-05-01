@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<exampleModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="521945de-1ab6-410c-b137-27f6db54ba95" xmlns="http://schemas.microsoft.com/dsltools/AvaloniaDSL">
+  <elements>
+    <exampleElement Id="059ba138-5236-4af2-ac51-042f7c3a5b5f" name="ExampleElement1">
+      <targets>
+        <exampleElementMoniker name="/521945de-1ab6-410c-b137-27f6db54ba95/ExampleElement2" />
+      </targets>
+    </exampleElement>
+    <exampleElement Id="e6c3cd57-bb04-4042-b54b-4fa93c4ea4df" name="ExampleElement2" />
+  </elements>
+</exampleModel>

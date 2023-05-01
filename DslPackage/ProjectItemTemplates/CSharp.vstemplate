@@ -1,0 +1,17 @@
+﻿<!--DSL Tools Language Template-->
+<VSTemplate Version="3.0.0" Type="Item" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<TemplateData>
+		<TemplateID>{1ad0a91d-56c8-490e-b36f-121b67376cf7}</TemplateID>
+		<Name Package="{fa635a4a-e87f-4f3f-9a43-80320b8afd22}" ID="103"/>
+		<Description Package="{fa635a4a-e87f-4f3f-9a43-80320b8afd22}" ID="102"/>
+		<Icon Package="{fa635a4a-e87f-4f3f-9a43-80320b8afd22}" ID="201" />
+		<ProjectType>CSharp</ProjectType>
+		<SortOrder>360</SortOrder>
+		<DefaultName>Avalonia.axaml</DefaultName>
+	</TemplateData>
+	<TemplateContent>
+		<ProjectItem TargetFileName="$fileinputname$.axaml">axaml.axaml</ProjectItem>
+		<ProjectItem TargetFileName="$fileinputname$.axaml.diagram">axaml.diagram</ProjectItem>
+	</TemplateContent>
+</VSTemplate>
+
